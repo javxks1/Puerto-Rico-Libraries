@@ -40,7 +40,9 @@ This report is ideal for:
 
 ## Preview
 
-[Preview](images/libraries-dashboard-preview.png)
+- [Summary of Information](https://github.com/javxks1/Puerto-Rico-Libraries/blob/main/Summary%20of%20Information.png)
+- [Summary of Systems Map](https://github.com/javxks1/Puerto-Rico-Libraries/blob/main/Summary%20of%20Systems%20Map.png)
+- [Credits](https://github.com/javxks1/Puerto-Rico-Libraries/blob/main/Credits.png)
 
 ---
 
@@ -61,7 +63,9 @@ libraries-puerto-rico-report/
 ├── data/
 │ └── pr_libraries_data.csv 
 ├── images/
-│ └── libraries-dashboard-preview.png
+│ └── Summary_of_Information.png
+│ └── Summary_of_Systems+Map.png
+│ └── Credits.png
 └── docs/
-└── data_dictionary.md # Optional metadata and source info
+└── data_dictionary.md
 
