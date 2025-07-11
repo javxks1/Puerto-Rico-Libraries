@@ -10,8 +10,6 @@ The Puerto Rico Libraries Report is the detailed and interactive summary  on lib
 
 [**Report**](https://app.powerbi.com/view?r=eyJrIjoiZGFlMzM2NmQtY2NiZi00ZjQ4LWIxNTUtYjQyMTBjMjk4ZmQ5IiwidCI6IjdkZjczZTQwLWRlNzktNDk1MC1iYWQzLTkwODkwNTA3ZTM5OCIsImMiOjJ9)
 
----
-
 ## Features
 
 - **Library Resources Overview**  
@@ -26,8 +24,6 @@ The Puerto Rico Libraries Report is the detailed and interactive summary  on lib
 - **Interactive Filters**  
   Filter data by region, library type, or resource category to explore trends and disparities across the island.
 
----
-
 ## Use
 
 This report is ideal for:
@@ -36,15 +32,11 @@ This report is ideal for:
 - **Researchers** analyzing public resource distribution and investment.
 - **Analysts** building presentations on public infrastructure and education.
 
----
-
 ## Preview
 
 - [Summary of Information](https://github.com/javxks1/Puerto-Rico-Libraries/blob/main/Summary%20of%20Information.png)
 - [Summary of Systems Map](https://github.com/javxks1/Puerto-Rico-Libraries/blob/main/Summary%20of%20Systems%20Map.png)
 - [Credits](https://github.com/javxks1/Puerto-Rico-Libraries/blob/main/Credits.png)
-
----
 
 ## Tools
 
@@ -52,5 +44,3 @@ This report is ideal for:
 - Excel / CSV – Dataset sourcing and preparation  
 - DAX – Calculated fields and metrics  
 - Map Visualizations – Interactive geographic data display
-
----
