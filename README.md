@@ -48,25 +48,9 @@ This report is ideal for:
 
 ## Tools
 
-- **Power BI** – Data modeling and visualization  
-- **Excel / CSV** – Dataset sourcing and preparation  
-- **DAX** – Calculated fields and metrics  
-- **Map Visualizations** – Interactive geographic data display
-
----
-
-## Repository
-
-libraries-puerto-rico-report/
-├── README.md
-├── Libraries_Report.pbix 
-├── data/
-│ └── pr_libraries_data.csv 
-├── images/
-│ └── Summary_of_Information.png
-│ └── Summary_of_Systems+Map.png
-│ └── Credits.png
-└── docs/
-└── data_dictionary.md
+- Power BI – Data modeling and visualization  
+- Excel / CSV – Dataset sourcing and preparation  
+- DAX – Calculated fields and metrics  
+- Map Visualizations – Interactive geographic data display
 
 ---
